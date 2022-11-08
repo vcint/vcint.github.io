@@ -1,0 +1,17 @@
+{
+  "short_name": "vinayportfolio",
+  "name": "vinayc",
+  "icons": [
+  {
+   "src": "\/icons\/favicon.ico",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+
+ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
